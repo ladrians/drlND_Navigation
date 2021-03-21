@@ -19,7 +19,7 @@ I used a vanilla deep neural network consisting of 3 fully connected layers inte
 
 #### Hyperparameters
 
-The initial configuration from the []() project was used and worked fine for this project, so changes were applied.
+The initial configuration from the [LunarLander](https://github.com/udacity/deep-reinforcement-learning/blob/master/dqn/solution/dqn_agent.py#L11) project was used and worked fine for this project, so no changes were applied.
 
 ```python
 BUFFER_SIZE = int(1e5)  # replay buffer size
@@ -75,7 +75,7 @@ A plot of rewards per episode is illustrated here:
 
 ### Evaluation
 
-The evaluation of the agent for a couple of episodes can be checked on [this](extra/dqt_test01.mp4) video; related to:
+The evaluation of the agent for a couple of episodes can be checked on [this video](extra/dqt_test01.mp4); related to:
 
 ```python
 n_episodes = 3
