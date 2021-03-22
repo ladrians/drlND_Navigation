@@ -123,3 +123,4 @@ In particular, `Experience replay` is based on the idea that we can learn better
 * [Dueling Network](https://arxiv.org/pdf/1511.06581.pdf)
 * [Double DQN](https://arxiv.org/pdf/1509.06461.pdf)
 * [Prioritized Experience Replay](https://arxiv.org/pdf/1511.05952.pdf)
+* [DQN Adventure: from Zero to State of the Art](https://github.com/higgsfield/RL-Adventure)
